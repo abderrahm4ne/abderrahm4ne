@@ -1,5 +1,5 @@
 # 💫 About Me: 
-interested in ALL Computer Fields;<br>I’m currently focusing on web developing;<br>to reach me here is my email : abderrahmanebded@gmail.com;<br> The greater the struggle, the more glorious the triumph.
+interested in ALL Computer Fields;<br>I’m currently focusing on web developing;<br>to reach me here is my email : abderrahmanebded@gmail.com;
 
 
 ## 🌐 Socials:
