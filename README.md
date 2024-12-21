@@ -10,12 +10,6 @@ interested in ALL Computer Fields and crypto;<br>I’m currently focusing on web
  ![JSON](https://img.shields.io/badge/json-%232F333A.svg?style=for-the-badge&logo=json&logoColor=%23FFFFFF) ![XML](https://img.shields.io/badge/xml-%231F8CBB.svg?style=for-the-badge&logo=xml&logoColor=%23FFFFFF) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
-
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
