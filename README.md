@@ -10,7 +10,7 @@ interested in ALL Computer Fields and crypto;<br>I’m currently focusing on web
  ![JSON](https://img.shields.io/badge/json-%232F333A.svg?style=for-the-badge&logo=json&logoColor=%23FFFFFF) ![XML](https://img.shields.io/badge/xml-%231F8CBB.svg?style=for-the-badge&logo=xml&logoColor=%23FFFFFF) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Top Languages](https://camo.githubusercontent.com/249948bca116cacb6d4655e73bb8ee3a5fc835e892eb8fc02842ece15ad9374b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6162646f3330303034266c61796f75743d646f6e7574267468656d653d6179752d6d6972616765)
-![Top Languages](https://camo.githubusercontent.com/c22cf1eaeab273c4ddf00f6c16926e4b341fb383badd9d5efe7e6f3f9bb910dd/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f3736303935323731303338333636353139323f616e696d617465643d747275652673686f77446973706c61794e616d653d74727565266869646554696d657374616d703d74727565)
+
 
 
 ### ✍️ Random Dev Quote
