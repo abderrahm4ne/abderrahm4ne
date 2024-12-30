@@ -1,5 +1,5 @@
 # About Me: 
-interested in ALL Computer Fields and crypto;<br>Currently focusing on web developing;<br>To reach me here is my email : abderrahmanebded@gmail.com;
+interested in ALL Computer Fields and crypto;<br>Currently focusing on web developing;
 
 
 
