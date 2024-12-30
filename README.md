@@ -3,7 +3,6 @@ interested in ALL Computer Fields and crypto;<br>Currently focusing on web devel
 
 
 
-[![abderrahm4ne's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abderrahm4ne)](https://github.com/abderrahm4ne/github-readme-stats)
 ![abderrahm4ne's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderrahm4ne&show_icons=true&theme=transparent)
 
 
