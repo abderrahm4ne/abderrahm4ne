@@ -14,5 +14,5 @@ interested in ALL Computer Fields and crypto;<br>Currently focusing on web devel
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![](https://komarev.com/ghpvc/?username=abderrahm4ne&color=blue)
+![](https://komarev.com/ghpvc/?username=abderrahm4ne&color=blue&label=COUNTS)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
