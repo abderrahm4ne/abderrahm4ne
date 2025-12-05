@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=700&height=53&lines=Hi!+I'm+Abderrahmane+;A+passionat+web+Developer+%26%26++kernel+enthusiast)](https://git.io/typing-svg)
+
 #  About Me:
 interested in ALL Computer Fields and crypto;
 <br>Currently focusing on web developing;<br>
