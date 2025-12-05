@@ -1,6 +1,5 @@
 #  About Me:
-interested in ALL Computer Fields and crypto;<br>Currently focusing on web developing;
-kernel enthusiast;
+interested in ALL Computer Fields and crypto && kernel enthusiast;<br>Currently focusing on web developing;
 
 
 # 📊 GitHub Stats:
