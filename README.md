@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=700&height=53&lines=Hi!+I'm+Abderrahmane+;A+passionat+web+Developer;%26%26+kernel+enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?size=24&color=F70000&width=700&height=53&lines=Hi!+I'm+Abderrahmane+;A+passionat+web+Developer;%26%26+kernel+enthusiast." alt="Typing SVG" />
 </div>
+
 
 #  About Me:
 interested in ALL Computer Fields and crypto,
